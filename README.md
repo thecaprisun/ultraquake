@@ -1,5 +1,5 @@
 # ULTRAQUAKE
-A fork of the Quake 3 engine that adds ULTRAKILL style mechanics
+A fork of the Quake 3 engine ([ioquake3](https://github.com/ioquake/ioq3)) that adds ULTRAKILL style mechanics
 # TODO
 ### Fix
 - [ ] Text files not relevant to this fork
